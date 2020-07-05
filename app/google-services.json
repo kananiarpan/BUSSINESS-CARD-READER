@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056929620949",
+    "firebase_url": "https://bcard-dce2d.firebaseio.com",
+    "project_id": "bcard-dce2d",
+    "storage_bucket": "bcard-dce2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056929620949:android:755d9efaddb4e19bc1135c",
+        "android_client_info": {
+          "package_name": "com.example.bcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056929620949-762erkm12fp2ab72kivr7pqqjkqic86f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhG0XaAb3zNfXa-cOf_ZP8B_Y9Bc3jPEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056929620949-762erkm12fp2ab72kivr7pqqjkqic86f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
